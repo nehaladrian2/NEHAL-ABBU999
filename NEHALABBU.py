@@ -30,7 +30,7 @@ os.system("espeak -a 300 \"Checking,Update,\"")
 time.sleep(2)
 #os.system('clear')
 print('\033[91;1m[\x1b[31;5;50m+\033[91;1m] \x1b[31;5;50mUPDATE VERSHON 6.1...! ')
-os.system("espeak -a 300 \"UPDATE VERSION 6.1,\"")
+os.system("espeak -a 300 \"UPDATE VERSION 6.2,\"")
 time.sleep(2)
 #os.system('clear')
 print("\033[95;1m[\x1b[35;5;50m+\033[97;1m]\x1b[35;5;50m SUBSCRIBE MY YOUTUBE CHANNEL..!")
@@ -1666,7 +1666,7 @@ logo ="""
 [] TOOLS        :     𝐅𝐈𝐋𝐄-𝐂𝐋𝐎𝐍𝐈𝐍𝐆
 [] TYPE         :      𝗣𝗔𝗜𝗗(𝐔𝐬𝐞𝐫 𝐎𝐧𝐥𝐲)
 [] FACEBOOK     :      𝐀𝐃𝐑𝐈𝐀𝐍 𝐀𝐇𝐌𝐄𝐃 𝐀𝐃𝐈𝐁
-[] VERSION      :      𝟔.𝟏
+[] VERSION      :      𝟔.2
 [] MESSENGER    :      𝐍𝐄𝐇𝐀𝐋 𝗧𝗲𝗿𝗺𝘂𝘅 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆
 =================================================="\033[1;23m"""                                
 balpakna =("""\x1b[38;5;50m══════════════════════════════════════════════════""")    
